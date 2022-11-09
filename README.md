@@ -29,7 +29,7 @@
 
 13)таблица умножения + ещё что то.xlsx - возведение числа в стеень + перевод из бит в байты и наоборот
 
-$$ A \leftrightarrow B = (\overline{A} \lor B) \& (\overline{B} \& A) $$
+$$ A \leftrightarrow B = (\overline{A} \lor B) \& (\overline{B} \& A) $$ 
 
 $$ \bar{E}_2^{1}=\sqrt{\frac{Fa^{x-1}}{(x-1)\cdot x}} + \alpha_1^{\frac{1}{3}} + \beta_2^{\frac{2}{3}} $$
 
