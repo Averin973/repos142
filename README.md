@@ -29,6 +29,8 @@
 
 13)таблица умножения + ещё что то.xlsx - возведение числа в стеень + перевод из бит в байты и наоборот
 
+14) $$ A \leftrightarrow B = (\overline{A} \lor B) \& (\overline{B} \& A) $$
+
 $$ \bar{E}_2^{1}=\sqrt{\frac{Fa^{x-1}}{(x-1)\cdot x}} + \alpha_1^{\frac{1}{3}} + \beta_2^{\frac{2}{3}} $$
 
 ![lagrida_latex_editor (9)](https://user-images.githubusercontent.com/114554606/200734867-10e9e42b-d918-4ddd-b49e-d26ead18f3d6.png)
