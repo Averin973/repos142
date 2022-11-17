@@ -168,13 +168,13 @@ def what_to_use_4():
     what_to_use = input('\nЧто вы хотите использовать? \n1)N,I \n2)i,I \nИспользую: ')
 
     if what_to_use == '1':
-        K=int(input('\nВведите K: '))
+        N=int(input('\nВведите N: '))
         I=int(input('\nВведите I: '))
         i = log2(N)
-        print(f'\nI={I / i}')
+        print(f'\nK={I / N}')
         vopros()
 
-    elif what_to_use == 2:
+    elif what_to_use == '2':
         i=int(input('\nВведите i: '))
         I=int(input('\nВведите I: '))
         print(f'\nK={I / i}')
