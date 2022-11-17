@@ -19,7 +19,7 @@ def info():
 
     else:
         print("\nВводить значения только от 1 до 4!")
-        what_to_use_4()
+        info_not_1_to_4()
         
 
 def image():
@@ -87,7 +87,7 @@ def f11():
     elif type_of_data == "4":
         print()
     else:
-        print("\nВводи значения только от 1 до 5!")
+        print("\nВводи значения только от 1 до 4!")
         f11_not15()
 
 def vopros():
