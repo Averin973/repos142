@@ -55,3 +55,21 @@ def f8():
             if not sp:
                 k+=1
     print(k)
+
+    
+    
+    с=0
+for i in range(1,1000):
+    chislo=''
+    num=(bin(i)[2:])
+    if num.count('1')%2==0:
+        chislo=num[2:]+'101'
+
+    if num.count('1')%2!=0:
+        chislo=num[2:]+'011'
+    if int(chislo,2)>200 and imt(chislo,2)%2==0:
+        print (i, int(chislo,2))
+        c+=1
+        break
+ if c==0
+     print( 'нету')
